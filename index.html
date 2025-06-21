@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Player</title>
+
+  <script src="https://kit.fontawesome.com/3fbe9e080a.js" crossorigin="anonymous"></script>
+
+  <link href='https://fonts.googleapis.com/css?family=Roboto Mono' rel='stylesheet'>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <audio id="song" src=""></audio>
+
+  <div class="super-container">
+    <div class="container preview">
+    <div class="volume-bar"><input type="range" min=0 max=1 step="0.01" id="vol"></div>
+
+      <div class="cover">
+        <img src="" alt="Portada de album">
+      </div>
+
+      <div class="info">
+        <div class="info_dump">
+          <div class="title">
+            <span class="name"></span>
+            <span class="time">
+              <span class="current"></span>/
+              <span class="goal"></span>
+            </span>
+          </div>
+          <div class="track-bar"><input type="range" id="track"></div>
+        </div>
+
+        <div class="buttons">
+          <button id="shuffle" class="shuffle"><i class="fa-solid fa-shuffle"></i></button>
+          <button id="back" class="back"><i class="fa-solid fa-backward"></i></button>
+          <button id="play" class="play"><i class="fa-solid fa-circle-play"></i></button>
+          <button id="next" class="next"><i class="fa-solid fa-forward"></i></button>
+          <button id="repeat" class="repeat"><i class="fa-solid fa-rotate"></i></button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="renderer.js"></script>
+</body>
+
+</html>

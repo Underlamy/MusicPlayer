@@ -1,0 +1,155 @@
+[
+  {
+    "id": 0,
+    "title": "Tank!",
+    "author": "SEATBELTS",
+    "mainColor": "#ab1c17ff",
+    "accentColor": "#fefefeff",
+    "cover": "assets/songs/tank/cover.jpg",
+    "audio": "assets/songs/tank/song.mp3"
+  },
+  {
+    "id": 1,
+    "title": "Rush",
+    "author": "SEATBELTS",
+    "mainColor": "#ab1c17ff",
+    "accentColor": "#fefefeff",
+    "cover": "assets/songs/rush/cover.jpg",
+    "audio": "assets/songs/rush/song.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Bored",
+    "author": "Laufey",
+    "mainColor": "#09203fff",
+    "accentColor": "#f0f1e9ff",
+    "cover": "assets/songs/bored/cover.jpg",
+    "audio": "assets/songs/bored/song.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Dreamer",
+    "author": "Laufey",
+    "mainColor": "#09203fff",
+    "accentColor": "#f0f1e9ff",
+    "cover": "assets/songs/dreamer/cover.jpg",
+    "audio": "assets/songs/dreamer/song.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Nocturne",
+    "author": "Laufey",
+    "mainColor": "#09203fff",
+    "accentColor": "#f0f1e9ff",
+    "cover": "assets/songs/nocturne/cover.jpg",
+    "audio": "assets/songs/nocturne/song.mp3"
+  },
+  {
+    "id": 5,
+    "title": "Second Best",
+    "author": "Laufey",
+    "mainColor": "#09203fff",
+    "accentColor": "#f0f1e9ff",
+    "cover": "assets/songs/second_best/cover.jpg",
+    "audio": "assets/songs/second_best/song.mp3"
+  },
+  {
+    "id": 6,
+    "title": "Haunted",
+    "author": "Laufey",
+    "mainColor": "#09203fff",
+    "accentColor": "#f0f1e9ff",
+    "cover": "assets/songs/haunted/cover.jpg",
+    "audio": "assets/songs/haunted/song.mp3"
+  },
+  {
+    "id": 7,
+    "title": "Must be Love",
+    "author": "Laufey",
+    "mainColor": "#09203fff",
+    "accentColor": "#f0f1e9ff",
+    "cover": "assets/songs/must_be_love/cover.jpg",
+    "audio": "assets/songs/must_be_love/song.mp3"
+  },
+  {
+    "id": 8,
+    "title": "While you were Sleeping",
+    "author": "Laufey",
+    "mainColor": "#09203fff",
+    "accentColor": "#f0f1e9ff",
+    "cover": "assets/songs/while_you_were_sleeping/cover.jpg",
+    "audio": "assets/songs/while_you_were_sleeping/song.mp3"
+  },
+  {
+    "id": 9,
+    "title": "Lovesick",
+    "author": "Laufey",
+    "mainColor": "#09203fff",
+    "accentColor": "#f0f1e9ff",
+    "cover": "assets/songs/lovesick/cover.jpg",
+    "audio": "assets/songs/lovesick/song.mp3"
+  },
+  {
+    "id": 10,
+    "title": "California and Me",
+    "author": "Laufey",
+    "mainColor": "#09203fff",
+    "accentColor": "#f0f1e9ff",
+    "cover": "assets/songs/california_and_me/cover.jpg",
+    "audio": "assets/songs/california_and_me/song.mp3"
+  },
+  {
+    "id": 11,
+    "title": "Promise",
+    "author": "Laufey",
+    "mainColor": "#09203fff",
+    "accentColor": "#f0f1e9ff",
+    "cover": "assets/songs/promise/cover.jpg",
+    "audio": "assets/songs/promise/song.mp3"
+  },
+  {
+    "id": 12,
+    "title": "From the Start",
+    "author": "Laufey",
+    "mainColor": "#09203fff",
+    "accentColor": "#f0f1e9ff",
+    "cover": "assets/songs/from_the_start/cover.jpg",
+    "audio": "assets/songs/from_the_start/song.mp3"
+  },
+  {
+    "id": 13,
+    "title": "Misty",
+    "author": "Laufey",
+    "mainColor": "#09203fff",
+    "accentColor": "#f0f1e9ff",
+    "cover": "assets/songs/misty/cover.jpg",
+    "audio": "assets/songs/misty/song.mp3"
+  },
+  {
+    "id": 14,
+    "title": "Serendipity",
+    "author": "Laufey",
+    "mainColor": "#09203fff",
+    "accentColor": "#f0f1e9ff",
+    "cover": "assets/songs/serendipity/cover.jpg",
+    "audio": "assets/songs/serendipity/song.mp3"
+  },
+  {
+    "id": 15,
+    "title": "Letter to my 13 year old",
+    "author": "Laufey",
+    "mainColor": "#09203fff",
+    "accentColor": "#f0f1e9ff",
+    "cover": "assets/songs/13/cover.jpg",
+    "audio": "assets/songs/13/song.mp3"
+  },
+  {
+    "id": 16,
+    "title": "Bewitched",
+    "author": "Laufey",
+    "mainColor": "#09203fff",
+    "accentColor": "#f0f1e9ff",
+    "cover": "assets/songs/bewitched/cover.jpg",
+    "audio": "assets/songs/bewitched/song.mp3"
+  }
+]
