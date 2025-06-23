@@ -1,0 +1,27 @@
+{
+  "name": "record_player",
+  "version": "1.0.0",
+  "description": "Music player better than spotify",
+  "homepage": "https://github.com/Underlamy/MusicPlayer#readme",
+  "bugs": {
+    "url": "https://github.com/Underlamy/MusicPlayer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Underlamy/MusicPlayer.git"
+  },
+  "license": "ISC",
+  "author": "Underlamy",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^36.5.0"
+  },
+  "dependencies": {
+    "electron-store": "^10.1.0"
+  }
+}
