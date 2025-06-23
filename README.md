@@ -1,9 +1,11 @@
 # MusicPlayer 1.0
-By Underlamy
+![Version](https://img.shields.io/badge/Version-1.0-blue)
+![Status](https://img.shields.io/badge/Status-Working--on--it-yellow)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-June%2022,%202025-blue)
 
 A music player that works as an overlay
 
-##Demo
+## Demo
 ![image](https://github.com/user-attachments/assets/4edb7e8c-8812-42d6-be93-13685c66c11e)
 
 ## Features
@@ -14,9 +16,16 @@ A music player that works as an overlay
 - 📁 Playlists loaded from JSON
 - 🖥️ Built with Electron + HTML/CSS/JS
 
-- ## Installation
+## Installation
 
-$git clone https://github.com/Underlamy/MusicPlayer.git
-$cd yourrepo
-$npm install
-$npm start
+```bash
+git clone https://github.com/Underlamy/MusicPlayer.git
+cd MusicPlayer
+npm install
+npm start
+```
+## How to Run
+
+```bash
+npm run start
+```
